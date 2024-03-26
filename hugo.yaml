@@ -1,7 +1,7 @@
 baseURL: https://hugo-toha.github.io
 
-languageCode: en-us
-title: "John's Blog"
+languageCode: zh-cn
+title: "Firebox 英雄联盟助手"
 
 # Use Hugo modules to add theme
 
@@ -21,18 +21,19 @@ module:
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
-  en:
-    languageName: English
-    weight: 1
-  fr:
-    languageName: Français
-    weight: 2
-  zh:
-    languageName: 中文
-    weight: 3
+  zh-cn:
+      languageName: 中文
+      weight: 1
+  # en:
+  #   languageName: English
+  #   weight: 2
+  # fr:
+  #   languageName: Français
+  #   weight: 3
+  
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
-# DefaultContentLanguage: bn
+DefaultContentLanguage: zh-cn
 
 # Allow raw html in markdown file
 markup:
