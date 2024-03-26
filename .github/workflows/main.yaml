@@ -23,7 +23,15 @@ jobs:
           hugo-version: '0.124.1'
           extended: true
 
-      - name: Build
+      - name: Build1
+        run: hugo mod get -u
+      - name: Build2
+        run: hugo mod tidy
+      - name: Build3
+        run: hugo mod npm pack
+      - name: Build4
+        run: npm install
+      - name: Build5
         run: hugo --minify
 
       - name: Deploy
