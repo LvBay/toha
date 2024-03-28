@@ -1,6 +1,6 @@
 # section information
 section:
-  name: 关于
+  name: 下载
   id: about
   enable: true
   weight: 1
@@ -18,7 +18,8 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: '我是一款基于拳头公开 API 开发的英雄联盟助手。本工具完全遵守腾讯绿色插件公约，请放心使用'
+
+summary: '我是一款基于拳头公开 API 开发的英雄联盟助手。本工具完全遵守腾讯绿色插件公约，请放心使用。[点击这里](/files/firebox.exe)下载我</br></br>你也可以通过下面这些平台联系到我：'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -34,7 +35,7 @@ socialLinks:
 
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "lockerhyz@gmail.com"
 
 - name: Github
   icon: "fab fa-github"

@@ -1,17 +1,19 @@
 # some information about you
 name: ""
 nickname: "firebox"
+image: "/images/site/author.png"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "你好，召唤师，我是"
+greeting: "你好，召唤师。我是"
 # image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "johndoe@example.com"
   phone: "+0123456789"
   github: johndoe
-  linkedin: johndoe
+  # linkedin: johndoe
 
 # some summary about what you do
 summary:
-  - 我是一个安全的英雄联盟助手
-  - 我可以帮你提升游戏技术
+  - 我是你专属的英雄联盟助手
+  - 我可以在BP阶段为你分析游戏局势
+  - 最大的愿望就是能帮你提升技术

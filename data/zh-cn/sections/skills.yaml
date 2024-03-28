@@ -3,10 +3,35 @@ section:
   id: skills
   enable: true
   weight: 2
-  showOnNavbar: tru
+  showOnNavbar: true
 
 skills:
-- name: Kubernetes
+- name: 战绩查询
   # logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  summary: "在BP阶段，帮你查询队友的历史战绩，更方便了解队友的状态"
+  url: ""
+
+- name: 战力评估
+  # logo: /images/sections/skills/kubernetes.png
+  summary: "在历史战绩页面，会展示每个ID的战力值"
+  url: ""
+
+- name: 技能对比
+  # logo: /images/sections/skills/kubernetes.png
+  summary: "知己知彼。你或许很清楚自己的技能情况，但对方的技能呢？我会自动为您查询到它"
+  url: ""
+
+- name: 属性对比
+  # logo: /images/sections/skills/kubernetes.png
+  summary: "细节决定成败。我会展示你和对线英雄的基础属性，包括：基础魔抗、护甲、功击距离、移动速度等"
+  url: ""
+
+- name: 胜率对比
+  # logo: /images/sections/skills/kubernetes.png
+  summary: "不知道自己的强势期是在什么阶段？胜率对比会帮你查到这个信息"
+  url: ""
+
+- name: 峡谷征信
+  # logo: /images/sections/skills/kubernetes.png
+  summary: "遇到那些让你不舒服的队友？在战绩详情页面举报他，然后所有人都会看到"
+  url: ""

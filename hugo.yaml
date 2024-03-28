@@ -2,6 +2,7 @@ baseURL: https://hugo-toha.github.io
 
 languageCode: zh-cn
 title: "Firebox 英雄联盟助手"
+  
 
 # Use Hugo modules to add theme
 
@@ -58,8 +59,13 @@ enableEmoji: true
 
 # Site parameters
 params:
+  background: /images/site/wallhaven-1j22y3.jpg
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  # gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  logo:
+    main: /images/site/logo.png
+    inverted: /images/site/logo.png
+    favicon: /images/site/logo.png
 
   features:
     # Enable portfolio section
@@ -68,12 +74,20 @@ params:
 
     # Enable blog posts
     blog:
-      enable: true
+      enable: false
 
     # Enable Table of contents in reading page
     toc:
+      enable: true
+    darkMode:
       enable: true
 
   # Configure footer
   footer:
     enable: true
+    contactMe:
+      enable: false
+    navigation:
+      enable: false
+    newsletter:
+      enable: false
