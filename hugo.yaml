@@ -59,7 +59,7 @@ enableEmoji: true
 
 # Site parameters
 params:
-  background: /images/site/wallhaven-1j22y3.jpg
+  background: /images/site/riven.jpg
   # GitHub repo URL of your site
   # gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
   logo:
@@ -68,13 +68,13 @@ params:
     favicon: /images/site/logo.png
 
   features:
-    # Enable portfolio section
+    # Enable portfolio sections
     portfolio:
       enable: true
 
     # Enable blog posts
     blog:
-      enable: false
+      enable: true
 
     # Enable Table of contents in reading page
     toc:

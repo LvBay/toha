@@ -1,0 +1,72 @@
+section:
+  name: 版本历史 # Titre de la sections (par défaut: "" )
+  id: experiences # url id/slug of sections *Required*
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+experiences:
+  - company:
+      name: 快速复盘
+      url: "https://www.example.com"
+#      location: 历史战绩页面
+      logo: /images/experiences/company.png
+      darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+      # company overview
+      overview: 有没有一种可能，不看录像，也能复盘？
+    positions:
+      - designation: 本意
+        start: 2024-07-21
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - 输掉游戏本来就已经很不爽了，还让我再花时间重看一遍录像？
+          - 我想看这一整局的经济曲线变化，而不是最终的经济状况
+          - 我只想看我自己和对手的经济曲线，而不是两个队伍
+          - 我想知道这个时间段发生了什么，导致经济曲线变化
+  - company:
+      name: UI升级
+      url: "https://www.example.com"
+      logo: /images/experiences/company.png
+      darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+      # company overview
+      overview: 颜值即正义
+    positions:
+      - designation: 后端程序员如何做一款漂亮的软件？
+        start: 2024年1月14
+        responsibilities:
+          - 最开始，我觉得软件界面还行，不丑啊，哪里丑了
+          - 有一次一周没打开软件。再打开的时候意识到，界面是有点抽象
+          - 怎么办呢？花钱，找设计师
+          - 设计完以后，熬了几个通宵把所有界面都重构了一遍
+  - company:
+      name: 峡谷征信
+      url: "https://www.example.com"
+      logo: /images/experiences/company.png
+      darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+      # company overview
+      overview: 我们联盟玩家也有自己的征信大数据
+    positions:
+      - designation: 那些年，我们遇到过的小摆子
+        start: 2023年5月24
+        responsibilities:
+          - 游戏自带的举报机制，力度根本不够
+          - 摆烂成本太低了
+          - 那就把摆烂玩家的ID记录下来，让别人也知道
+          - 希望我们不要成为自己曾经讨厌的那种人
+  - company:
+      name: 第一个版本
+      url: "https://www.example.com"
+      location: Dhaka Branch
+      logo: /images/experiences/company.png
+      darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+      # company overview
+      overview: 分享，是故事的开端
+    positions:
+      - designation: 发布
+        start: 2023年5月13
+        responsibilities:
+          - 本来是写给自己用的，有一天突然想到为什么不分享给其他玩家呢
+          - 发布到 v2ex 上，竟然还上了热门🔥
+          - 做了一个简单的介绍视频发布到了B站

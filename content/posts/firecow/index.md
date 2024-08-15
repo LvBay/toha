@@ -5,7 +5,7 @@ description: Introduction to Sample Post
 menu:
   sidebar:
     name: Introduction
-    identifier: introduction
+    identifier: 火牛杯
     weight: 10
 tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]

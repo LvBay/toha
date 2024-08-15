@@ -1,17 +1,15 @@
 ---
-title: "你好呀"
+title: "火牛杯"
 date: 2020-06-08T08:06:25+06:00
-description: 你好呀，描述
+description: 火牛杯
 menu:
   sidebar:
-    name: Introduction
-    identifier: introduction
+    name: 火牛杯
+    identifier: 火牛杯
     weight: 10
 tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
-
-
 
 你好啊！
 - 今天天气不错

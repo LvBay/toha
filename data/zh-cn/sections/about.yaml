@@ -1,4 +1,4 @@
-# section information
+# sections information
 section:
   name: 下载
   id: about
@@ -66,45 +66,52 @@ badges:
 #   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
 #   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
 
-# - type: certification
-#   name: Istio and IBM Cloud Kubernetes Service
-#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-#   badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
-
-# - type: certification
-#   name: Artificial Intelligence and Machine Learning
-#   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-#   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
-
-- type: soft-skill-indicator
+- type: certification
   name: 战绩查询
+  badge: "/files/zhanjichaxun.png"
   percentage: 100
   color: blue
+  url: "/posts/"
 
-- type: soft-skill-indicator
-  name: 战力评估
+- type: certification
+  name: 英雄强度
+  badge: "/files/yxqd.png"
   percentage: 100
-  color: yellow
+  color: blue
+  url: "https://www.baidu.com"
 
-- type: soft-skill-indicator
+- type: certification
+  name: 快速复盘
+  badge: "/files/ksfp.png"
+  percentage: 100
+  color: blue
+  url: "https://www.baidu.com"
+
+- type: certification
   name: 技能对比
+  badge: "/files/jndb.png"
   percentage: 100
-  color: orange
+  color: blue
+  url: "https://www.baidu.com"
 
-- type: soft-skill-indicator
-  name: 属性对比
+- type: certification
+  name: 数据分析
+  badge: "/files/sjfx.png"
   percentage: 100
-  color: '#E6E6FA'
+  color: blue
+  url: "https://www.baidu.com"
 
-- type: soft-skill-indicator
-  name: 胜率分析
-  percentage: 100
-  color: '#228B22'
-
-- type: soft-skill-indicator
+- type: certification
   name: 更多...
+  badge: "/files/gd.png"
   percentage: 100
-  color: '#FFC0CB'
+  color: blue
+  url: "https://www.baidu.com"
+
+#- type: soft-skill-indicator
+#  name: 更多...
+#  percentage: 100
+#  color: '#FFC0CB'
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
