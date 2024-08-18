@@ -1,5 +1,5 @@
 section:
-  name: 版本历史 # Titre de la sections (par défaut: "" )
+  name: 历程 # Titre de la sections (par défaut: "" )
   id: experiences # url id/slug of sections *Required*
   enable: true
   weight: 3
