@@ -2,6 +2,7 @@
 title: "火牛杯"
 date: 2020-06-08T08:06:25+06:00
 description: 火牛杯
+hero: "/images/posts/hnb/nt.jpeg"
 menu:
   sidebar:
     name: 火牛杯
@@ -12,6 +13,8 @@ categories: ["Basic"]
 ---
 
 ## 什么是火牛杯？
+
+教练，我想打比赛！
 
 火牛杯是我们自己举办的线上5v5比赛。一般在每周六下午举办，
 <span style="color: red;">全段位都可以免费报名参加</span>。

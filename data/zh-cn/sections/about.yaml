@@ -71,42 +71,42 @@ badges:
   badge: "/files/zhanjichaxun.png"
   percentage: 100
   color: blue
-  url: "/posts/"
+  url: "/posts/features/zjcx"
 
 - type: certification
   name: 英雄强度
   badge: "/files/yxqd.png"
   percentage: 100
   color: blue
-  url: "https://www.baidu.com"
+  url: "/posts/features/yxqd"
 
 - type: certification
   name: 快速复盘
   badge: "/files/ksfp.png"
   percentage: 100
   color: blue
-  url: "https://www.baidu.com"
+  url: "/posts/features/ksfp"
 
 - type: certification
   name: 技能对比
   badge: "/files/jndb.png"
   percentage: 100
   color: blue
-  url: "https://www.baidu.com"
+  url: "/posts/features/jndb"
 
 - type: certification
   name: 数据分析
   badge: "/files/sjfx.png"
   percentage: 100
   color: blue
-  url: "https://www.baidu.com"
+  url: "/posts/features/sjfx"
 
 - type: certification
   name: 更多...
   badge: "/files/gd.png"
   percentage: 100
   color: blue
-  url: "https://www.baidu.com"
+  url: "/posts/features"
 
 #- type: soft-skill-indicator
 #  name: 更多...
