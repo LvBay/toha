@@ -1,6 +1,6 @@
 ---
 title: "关于会员"
-date: 2020-07-08T08:06:25+06:00
+date: 2024-07-08T08:06:25+06:00
 hero: "/images/posts/vip/xlgj.jpeg"
 description: 关于会员
 menu:

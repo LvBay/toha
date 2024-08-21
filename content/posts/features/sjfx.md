@@ -1,6 +1,6 @@
 ---
 title: "数据分析"
-date: 2024-08-21T10:00:20+08:00
+date: 2024-08-04T10:00:20+08:00
 hero: "/images/posts/sjfx/dfmj.jpeg"
 menu:
   sidebar:

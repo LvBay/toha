@@ -1,6 +1,6 @@
 ---
 title: "英雄强度"
-date: 2024-08-21T10:00:20+08:00
+date: 2024-08-02T10:00:20+08:00
 hero: "/images/posts/yxqd/yongen.jpeg"
 menu:
   sidebar:

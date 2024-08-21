@@ -1,6 +1,6 @@
 ---
 title: "战绩查询"
-date: 2024-08-21T10:00:20+08:00
+date: 2024-08-01T10:00:20+08:00
 hero: "/images/posts/zjcx/timo.jpeg"
 menu:
   sidebar:

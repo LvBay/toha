@@ -1,6 +1,6 @@
 ---
 title: "火牛杯"
-date: 2020-06-08T08:06:25+06:00
+date: 2024-08-10T10:00:20+08:00
 description: 火牛杯
 hero: "/images/posts/hnb/nt.jpeg"
 menu:
