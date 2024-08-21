@@ -23,8 +23,8 @@ jobs:
           hugo-version: '0.124.1'
           extended: true
 
-      - name: Build1
-        run: hugo mod get -u
+#      - name: Build1
+#        run: hugo mod get -u
       - name: Build2
         run: hugo mod tidy
       - name: Build3
