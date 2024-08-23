@@ -33,6 +33,8 @@ jobs:
         run: npm install
       - name: Build5
         run: hugo --minify
+      - name: Copy seo.html to public directory
+        run: cp seo/baidu_verify_codeva-ykk4vkSnag.html public/
 
       - name: Setup Python                #配置 python 环境，cosmod 基于 python 开发
         uses: actions/setup-python@v4
