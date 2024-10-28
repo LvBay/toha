@@ -31,6 +31,7 @@ languages:
   # fr:
   #   languageName: Français
   #   weight: 3
+
   
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
@@ -81,12 +82,6 @@ params:
       enable: true
     darkMode:
       enable: true
-    analytics:
-      enable: true
-      services:
-        # Google Analytics
-        google:
-          id: G-Z1110XBD7L
 
   # Configure footer
   footer:
@@ -97,3 +92,7 @@ params:
       enable: false
     newsletter:
       enable: false
+  
+services:
+  googleAnalytics:
+    id: G-Z1110XBD7L
