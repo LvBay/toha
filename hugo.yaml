@@ -81,6 +81,12 @@ params:
       enable: true
     darkMode:
       enable: true
+    analytics:
+      enable: true
+      services:
+        # Google Analytics
+        google:
+          id: G-Z1110XBD7L
 
   # Configure footer
   footer:
