@@ -60,13 +60,13 @@ enableEmoji: true
 
 # Site parameters
 params:
-  background: /images/site/riven.jpg
+  background: /images/site/lolRiven.jpg
   # GitHub repo URL of your site
   # gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
   logo:
-    main: /images/site/logo.png
-    inverted: /images/site/logo.png
-    favicon: /images/site/logo.png
+    main: /images/site/logoFirebox.png
+    inverted: /images/site/logoFirebox.png
+    favicon: /images/site/logoFirebox.png
 
   features:
     # Enable portfolio sections
