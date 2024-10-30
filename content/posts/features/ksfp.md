@@ -1,6 +1,6 @@
 ---
 title: "快速复盘"
-date: 2024-08-21T10:00:20+08:00
+date: 2024-10-30T10:00:20+08:00
 hero: "/images/posts/ksfp/talon.png"
 menu:
   sidebar:
