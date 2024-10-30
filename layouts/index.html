@@ -2,7 +2,7 @@
 <html lang="{{ .Site.Language.Lang }}">
   <head>
     <meta name="baidu-site-verification" content="codeva-ykk4vkSnag" />
-    <title>{{- .Site.Title -}}</title>
+    <title>Firebox 英雄联盟助手 - LOL战绩查询、技能对比、数据分析、LOL助手</title>
     {{ $siteDescription := .Site.Params.description }}
     {{ if (index .Site.Data .Site.Language.Lang).site }}
       {{ $siteConfig := (index .Site.Data .Site.Language.Lang).site }}
@@ -10,7 +10,7 @@
         {{ $siteDescription = $siteConfig.description }}
       {{ end }}
     {{ end }}
-    <meta name="description" content="{{ $siteDescription }}" />
+    <meta name="description" content="Firebox 是一款免费的英雄联盟助手，支持战绩查询、技能对比、数据分析等实用功能，助你轻松掌握LOL局势。" />
 
     <!-- import common headers -->
     {{- partial "header.html" . -}}
