@@ -68,20 +68,20 @@ firebox只是我的第一个作品。后续我还会实现更多有意思、有�
     <div>
     vx联系方式(请添加备注来意)：
     </div>
-    <img width="250px" src="/images/posts/solo/vx.png">
+    <img width="250px" src="/files/vx.png">
   </div>
 
   <div>
     <div>
     支付宝支付：
     </div>
-    <img width="250px" src="/images/posts/solo/zhifubao.png">
+    <img width="250px" src="/files/zhifubao.png">
   </div>
   <div>
     <div>
       微信支付：
     </div>
-    <img width="250px" src="/images/posts/solo/vxzhifu.png">
+    <img width="250px" src="/files/vxzhifu.png">
   </div>
 
 </div>
