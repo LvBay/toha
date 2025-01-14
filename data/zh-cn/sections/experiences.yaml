@@ -9,8 +9,23 @@ section:
 
 experiences:
   - company:
+      name: 告别“以管理员权限启动”
+      url: "#experiences"
+#      location: 历史战绩页面
+      logo: /images/experiences/company.png
+      darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+      # company overview
+      overview: 每次打开firebox，都要右键管理员权限启动，太麻烦了！
+    positions:
+      - designation: 从此
+        start: 2025-01-14
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - 通过NSIS安装器，在初始化时就获取管理员权限。
+          - 即使是电脑小白，也能一键成功启动联盟助手firebox
+  - company:
       name: 快速复盘
-      url: "https://www.example.com"
+      url: "#experiences"
 #      location: 历史战绩页面
       logo: /images/experiences/company.png
       darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
@@ -27,7 +42,7 @@ experiences:
           - 我想了解哪些时间段的事件导致了经济曲线的波动。
   - company:
       name: UI升级
-      url: "https://www.example.com"
+      url: "#experiences"
       logo: /images/experiences/company.png
       darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
       # company overview
@@ -42,7 +57,7 @@ experiences:
           - 经过几次熬夜重构，最终为《Firebox》打造了全新的用户界面。
   - company:
       name: 峡谷征信
-      url: "https://www.example.com"
+      url: "#experiences"
       logo: /images/experiences/company.png
       darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
       # company overview
@@ -56,7 +71,7 @@ experiences:
           - 希望我们不要成为自己曾经讨厌的那种人。
   - company:
       name: 第一个版本
-      url: "https://www.example.com"
+      url: "#experiences"
       location: Dhaka Branch
       logo: /images/experiences/company.png
       darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
