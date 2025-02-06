@@ -24,7 +24,7 @@ try:
     client = cdn_client.CdnClient(cred, "", clientProfile)
 
     req = models.PurgePathCacheRequest()
-    params = {"Paths": ["http://blog.firefire.club/"], "FlushType": "flush"}
+    params = {"Paths": ["http://lol.firefire.club/"], "FlushType": "flush"}
     req.from_json_string(json.dumps(params))
 
     resp = client.PurgePathCache(req)
